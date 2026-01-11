@@ -1,9 +1,9 @@
 name: Proof HTML
-on:
+on:Facebook 
   push:
   workflow_dispatch:
-jobs:
-  build:
+jobs:https://business.facebook.com/latest/settings/product_catalogs/?business_id=875543827390286&detail_view_tab=ASSET_ACCESS&nav_ref=commerce_manager_onboarding_
+  build:MetaQuen
     runs-on: ubuntu-latest
     steps:
       - uses: anishathalye/proof-html@v1.1.0
